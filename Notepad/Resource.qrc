@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="/new/icons"/>
+    <qresource prefix="/icons"/>
+</RCC>
